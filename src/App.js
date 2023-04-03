@@ -16,6 +16,7 @@ function App() {
           onPointerLeave={(e) => console.log("Mouse left the image!")}>
           <img src={logo} className="App-logo" alt="logo" />
         </div >
+
         <p >Edit <code >src/App.js</code> and save to reload.</p>
 
       </header >
